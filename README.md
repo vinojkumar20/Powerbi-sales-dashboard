@@ -1,25 +1,29 @@
-# Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
 ## Overview
-Interactive Power BI dashboard for analyzing sales, profit, costs, shipments, and salesperson performance.
-
-## Tools Used
-- Power BI
-- DAX
-- Power Query
-- Excel
+This Power BI dashboard provides insights into sales performance, profitability, shipments, and salesperson effectiveness across multiple countries.
 
 ## Dashboard Preview
 
 ![Dashboard](sales_Dashboard_Screenshot.png)
 
 ## Key Features
-- KPI Cards
-- Profit Analysis
+- KPI Cards for Sales, Profit, Costs, Shipments, and Boxes
 - Sales Trend Analysis
-- Country Filters
+- Profitability Monitoring
+- Country-wise Filtering
+- Salesperson Performance Analysis
 - Bookmark Navigation
-- Salesperson Performance Tracking
+- Interactive Visualizations
+
+## Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Business Insights
+The dashboard helps stakeholders track revenue, profit margins, shipment distribution, and sales performance to support data-driven decision-making.
 
 ## Author
 Vinojkumar S
